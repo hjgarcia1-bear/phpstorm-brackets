@@ -1,4 +1,4 @@
-# PHPStrom Brackets Theme
+# PHPStorm Brackets Theme
 
 A work-in progress theme of the brackets editor for PHPStorm.  Most of the inspiration comes from the Sublime Text 2 Port and of course the Brackets Editor. I use the Tomorrow Theme as a base.
 
