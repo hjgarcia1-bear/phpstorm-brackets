@@ -13,15 +13,15 @@ More language support to come soon.
 
 To install copy "brackets.icls" to:
 ### On Mac OS X
- ~/Library/Preferences/your-version-of-phpstorm/colors/
+~/Library/Preferences/your-version-of-phpstorm/colors/
 
- ### On a Windows Installation
- c:/Users/USERNAME/your-version-of-phpstorm/config/colors
+### On a Windows Installation
+c:/Users/USERNAME/your-version-of-phpstorm/config/colors
 
- ### On a Ubuntu Installation
- ~/your-version-of-phpstorm/config/colors
+### On a Ubuntu Installation
+~/your-version-of-phpstorm/config/colors
 
- Then Restart PHPStorm
- Go to Settings->Editor->Colors & Fonts, select the "Brackets" scheme name, click OK
+Then Restart PHPStorm
+Go to Settings->Editor->Colors & Fonts, select the "Brackets" scheme name, click OK
 
 Enjoy!
